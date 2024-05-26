@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Zhiwei!
-- 💻 I'm a MS student at South West Jiao Tong University
+- 💻 I'm a M.S student at Southwest Jiaotong University
 - 🔭 I’m currently learning and working on 3D image reconstruction
 - 📫 Email me at: [zhiweishi@foxmail.com](mailto:zhiweishi@foxmail.com)
 - Please feel free to open an issue or drop me an email when you have problems about my repos. Pull requests are also welcome😉!
