@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋 I'm Zhiwei!
+- 💻 I'm a MS student at South West Jiao Tong University
+- 🔭 I’m currently learning and working on 3D image reconstruction
+- 📫 Email me at: [zhiweishi@foxmail.com](mailto:zhiweishi@foxmail.com)
+- Please feel free to open an issue or drop me an email when you have problems about my repos. Pull requests are also welcome😉!
 
 <!--
 **ZW-Shi/ZW-Shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
